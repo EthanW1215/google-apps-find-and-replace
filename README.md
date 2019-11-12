@@ -12,3 +12,7 @@ I don't feel great about how I had to add elements to each new page created (add
 If you need to tweek a few things and need help, I'm happy to do what I can. I'm still in Highschool though, so don't expect me to take any less than 6 hours to solve a problem involving 10 minutes of actual coding. 
 
 Hope someone is able to get some use out of this.
+
+Here is an invite link to view the actual .gs file: https://script.google.com/d/1MNW6-ble4jR_6D4gGKM0TTtcr3GK-cjbFt1y-uYWOwdFVT7-aS5LmnR5/edit?usp=sharing
+
+Here is a link to a video I made explaining how to use the program to my fellow AP Stats Students: https://www.youtube.com/watch?v=OL8PV9bdUzE
